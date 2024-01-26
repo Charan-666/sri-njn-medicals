@@ -1,0 +1,10 @@
+.App-footer{
+    background-color: #ffff;
+    color:rgb(40, 100, 18);
+    padding: 20px;
+    border-top: 3px solid ;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow:  20px  rgb(40, 100, 18);
+    
+  }

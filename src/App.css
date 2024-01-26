@@ -2,12 +2,121 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
+} */
+
+/* .App-header{
+  background-color: #ffffff;
+  color:rgb(40, 100, 18);
+  padding: 15px ;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(40, 100, 18);
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  box-shadow: 0 5px 20px rgb(40, 100, 18);
+}
+.logo{
+  max-width: 200px;
+  margin-right: 70px;
+  margin-left: 30px;
+}
+.nav-menu{
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+.nav-menu li{
+  margin-right: 40px;
+}
+
+.nav-menu a{
+  text-decoration: none;
+  color: rgb(40, 100, 18);
+  font-weight: bold;
+  transition: 0.4s;
+  padding: 4px;
+  border-radius: 9px;
+}
+.nav-menu a:hover{
+  background:linear-gradient(to right, #82b57a, #7257ab);
+  
+  color: #ffffff;
+ 
+  
+}
+
+.icon{
+  margin-right: 40px;
+  color: rgb(40, 100, 18);
+  font-size: larger;
+  font-weight:bolder;
+  
+}
+
+#searchicon{
+ 
+  font-weight: bolder;
+}
+
+.search-bar{
+  margin-right: 40px;
+}
+.App-content{
+  padding: 100px;
+
+}
+
+.App-footer{
+  background-color: #ffff;
+  color:rgb(40, 100, 18);
+  padding: 20px;
+  border-top: 3px solid ;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  box-shadow:  20px  rgb(40, 100, 18);
+  
+}
+
+
+.search-bar input{
+  width: 450px;
+  height: 28px;
+  outline: none;
+  border: 0.5px solid rgb(77, 146, 77);
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-left: 50px;
+}
+.search-bar button{
+  width: 60px;
+  height: 32px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid rgb(77, 146, 77);
+  background-color: rgb(77, 146, 77);
+  color: white;
+  outline: none;
+  cursor: pointer;
+  transition: 0.2s;
+  margin-right: 30px;
+  
+
+}
+.search-bar button:hover{
+  box-shadow: 5px 5px 15px rgb(77, 146, 77);
+}
+.contact-info{
+  font-weight: bold;
+} */
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
@@ -35,4 +144,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */ 
